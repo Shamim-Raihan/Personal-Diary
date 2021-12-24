@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adamina</item>
+        <item>@font/courgette</item>
+        <item>@font/marck_script</item>
+        <item>@font/montserrat</item>
+        <item>@font/vibur</item>
+    </array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2CC7FF</color>
+    <color name="colorPrimaryDark">#2CC7FF</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="mainThemeColor">#0194D8</color>
+    <color name="Theme1Color">#FFCFA7</color>
+    <color name="Theme2Color">#FED5E2</color>
+    <color name="Theme3Color">#F8CB88</color>
+    <color name="Theme4Color">#FFE8FF</color>
+    <color name="Theme5Color">#FFA3D5</color>
+    <color name="Theme6Color">#FEB3DE</color>
+    <color name="Theme7Color">#FEA78F</color>
+    <color name="Theme8Color">#F29E93</color>
+    <color name="Theme9Color">#FFD4BC</color>
+    <color name="Theme10Color">#27C5F3</color>
+    <color name="Theme11Color">#FDB0E9</color>
+
+    <color name="textColorBlcak">#000000</color>
+
+</resources>

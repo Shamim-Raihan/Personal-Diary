@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/read_page_background"
+    android:paddingTop="50dp"
+    android:paddingBottom="80dp"
+    tools:context=".ReadPage">
+    <RelativeLayout
+        android:id="@+id/titleAndDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            android:id="@+id/ReadSubjectID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="title"
+            android:singleLine="true"
+            android:textColor="#B35517"
+            android:textSize="16sp"
+            android:paddingLeft="60dp"
+
+            />
+
+        <TextView
+            android:id="@+id/ReadDateID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:text="Date"
+            android:textColor="#B35517"
+            android:textSize="16sp"
+            android:paddingRight="60dp"
+            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/ReadSubjectID"
+            android:background="#B35517"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="45dp"
+            android:layout_marginTop="5dp"
+            />
+    </RelativeLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="50dp"
+        android:layout_below="@id/titleAndDate"
+        android:layout_above="@id/belowViewLine"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/ReadDesID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/courgette"
+            android:text="description"
+            android:textColor="#000000"
+            android:textSize="22dp"/>
+    </ScrollView>
+
+    <View
+        android:id="@+id/belowViewLine"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:background="#B35517"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="45dp"
+        />
+</RelativeLayout>

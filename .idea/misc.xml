@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable-anydpi/ic_theme.xml" value="0.13277027027027027" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable-hdpi/round_button_main.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable-hdpi/theme_main.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1668896321070234" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable-v24/round_button_10.xml" value="0.15135135135135136" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/button.xml" value="0.15945945945945947" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/button_1.xml" value="0.17635135135135135" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/dialog_box_design.xml" value="0.1810810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1668896321070234" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/list_design.xml" value="0.17635135135135135" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/round_button_1.xml" value="0.15135135135135136" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/round_button_10.xml" value="0.15135135135135136" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/round_button_11.xml" value="0.15135135135135136" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/round_button_12.xml" value="0.15135135135135136" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/round_button_13.xml" value="0.15135135135135136" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/round_button_2.xml" value="0.15135135135135136" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/round_button_3.xml" value="0.15135135135135136" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/round_button_4.xml" value="0.15135135135135136" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/round_button_5.xml" value="0.15135135135135136" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/round_button_6.xml" value="0.15135135135135136" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/round_button_7.xml" value="0.15135135135135136" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/round_button_8.xml" value="0.15135135135135136" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/round_button_9.xml" value="0.15135135135135136" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/round_button_main.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/search_design.xml" value="0.15945945945945947" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/theme_1.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/theme_10.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/theme_11.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/theme_2.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/theme_3.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/theme_4.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/theme_5.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/theme_6.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/theme_7.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/theme_8.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/theme_9.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/drawable/theme_main.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/font/adamina.xml" value="0.1882943143812709" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/activity_add_page_pop_up.xml" value="0.1527027027027027" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/activity_adding_page.xml" value="0.1527027027027027" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/activity_delete_page.xml" value="0.1527027027027027" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/activity_diary_index.xml" value="0.1527027027027027" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/activity_editing_page.xml" value="0.1527027027027027" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/activity_foget_password.xml" value="0.16283783783783784" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/activity_main.xml" value="0.1527027027027027" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/activity_opern_diary.xml" value="0.1527027027027027" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/activity_read_page.xml" value="0.176" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/activity_secret_page.xml" value="0.1527027027027027" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/activity_sign_up.xml" value="0.1527027027027027" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/activity_today_snote.xml" value="0.1527027027027027" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/index_sample_layout.xml" value="0.15138888888888888" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/navigate_from_secret_page_dialog.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/select_dialog_box.xml" value="0.1581081081081081" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/show_password.xml" value="0.17060810810810811" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/show_secret_word_layout.xml" value="0.16655405405405405" />
+        <entry key="..\:/Android/DiaryManagement/app/src/main/res/layout/theme_dialog_box.xml" value="0.14087837837837838" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
