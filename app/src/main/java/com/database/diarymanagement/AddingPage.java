@@ -44,6 +44,10 @@ public class AddingPage extends AppCompatActivity {
         AddingaddPageButton = findViewById(R.id.AddingSavePaheButtonID);
         mainBackground = findViewById(R.id.main_background_id);
 
+
+
+
+
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             themeMain = getDrawable(R.drawable.theme_main);
             theme1 = getDrawable(R.drawable.theme_1);
